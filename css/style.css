@@ -1,0 +1,137 @@
+
+
+
+.top20 {
+    margin-top: 20px;
+}
+
+.box {
+    
+    height: 80%;
+    width: 80%;
+    
+    top: 25%;
+    left: 50%;
+    
+    position: relative;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+   
+}
+
+.background-picture {
+     display: block;
+    
+    height: 100%;
+    
+    background: url(../i/banana-310449_640.png); 
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+}
+
+.fullwidth {
+    height: 650px;
+    background: rgba( 209, 226, 48, 0.772 );
+}
+
+.main-text {
+    display: block;
+    text-align: center;
+    font-size: 45px;
+    
+    color: white;
+}
+
+.right30 {
+    margin-right: 30px;    
+}
+
+.title2 {
+    position: relative;
+    text-align: center;
+    color: white;
+    z-index: 12;
+}
+
+
+
+.menu__item {
+    padding: 4px;
+    line-height: 132%;
+    color: white;
+    margin-left: 9px;
+    height: 30px;
+   /* transition: .1s linear;*/
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+.menu__item:hover{
+    color: white;
+    /*outline: 3px solid red;*/
+    border: 1px solid brown;
+    border-radius: 15px;
+  
+}
+
+.top30 {
+    margin-top: 30px;    
+}
+
+.padding5 {
+    padding: 5px;
+}
+
+.custom-border {
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.fullwidth2 {
+    height: 650px;
+    background: #db872d;
+}
+
+
+
+.top80 {
+    margin-top: 80px;
+}
+
+.healine-slider1 {
+    color: white;
+}
+
+
+
+.fullwidth4 {
+    height: 650px;
+    background: #ac8529;
+}
+
+
+
+
+
+.color-white {
+    color:aliceblue;
+}
+
+.my-button {
+    background-color: rgba( 255, 255, 255, 0);
+    border: 1px solid;
+}
+.my-button:hover {
+    background-color:#f2ee26
+}
+
+.fullwidth3 {
+    height: 650px;
+    background: #f8ed9a;
+}
+
+.example-orbit-content {
+    
+}
